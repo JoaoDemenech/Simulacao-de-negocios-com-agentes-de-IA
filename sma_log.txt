@@ -1,0 +1,198 @@
+[2025-09-22 15:19:34] MainContainer: todos agentes iniciados.
+[2025-09-22 15:19:34] Buyer3 iniciado. Quer: carro -> 'LamborghiniHuracan' com budget R$ 350000.0
+[2025-09-22 15:19:34] Buyer7 iniciado. Quer: casa -> 'CasaCentro' com budget R$ 1000000.0
+[2025-09-22 15:19:34] Buyer6 iniciado. Quer: carro -> 'MercedesClasseS' com budget R$ 150000.0
+[2025-09-22 15:19:34] Buyer2 iniciado. Quer: carro -> 'Ferrari488' com budget R$ 470000.0
+[2025-09-22 15:19:34] Buyer5 iniciado. Quer: carro -> 'MercedesAMGGT' com budget R$ 230000.0
+[2025-09-22 15:19:34] Buyer4 iniciado. Quer: carro -> 'LamborghiniUrus' com budget R$ 280000.0
+[2025-09-22 15:19:34] Buyer1 iniciado. Quer: carro -> 'FerrariRoma' com budget R$ 320000.0
+[2025-09-22 15:19:34] Buyer9 iniciado. Quer: casa -> 'Chacara' com budget R$ 1050000.0
+[2025-09-22 15:19:34] Buyer10 iniciado. Quer: relogio -> '*' com budget R$ 90000.0
+[2025-09-22 15:19:34] Buyer8 iniciado. Quer: casa -> 'CasaPraia' com budget R$ 800000.0
+[2025-09-22 15:19:34] SellerCasas2 iniciado. Estoque: [AptoCentro (R$ 800000.0, qtd: 2), CasaSuburbio (R$ 550000.0, qtd: 1), Chacara (R$ 1100000.0, qtd: 1)]
+[2025-09-22 15:19:34] SellerMercedes iniciado. Estoque: [MercedesAMGGT (R$ 220000.0, qtd: 5), MercedesClasseS (R$ 180000.0, qtd: 6), MercedesGLS (R$ 150000.0, qtd: 4)]
+[2025-09-22 15:19:34] SellerLamborghini iniciado. Estoque: [LamborghiniAventador (R$ 480000.0, qtd: 2), LamborghiniHuracan (R$ 400000.0, qtd: 4), LamborghiniUrus (R$ 300000.0, qtd: 3)]
+[2025-09-22 15:19:34] SellerRolex iniciado. Estoque: [RolexDaytona (R$ 120000.0, qtd: 2), RolexSubmariner (R$ 95000.0, qtd: 3), RolexDatejust (R$ 80000.0, qtd: 4)]
+[2025-09-22 15:19:34] SellerFerrari iniciado. Estoque: [Ferrari488 (R$ 450000.0, qtd: 2), FerrariRoma (R$ 350000.0, qtd: 3)]
+[2025-09-22 15:19:34] SellerCasas1 iniciado. Estoque: [CasaCentro (R$ 1200000.0, qtd: 1), CasaCampo (R$ 600000.0, qtd: 1), CasaPraia (R$ 750000.0, qtd: 1)]
+[2025-09-22 15:19:34] SellerLamborghini -> PROPOSTA para Buyer3 sobre LamborghiniHuracan por R$ 400000.0
+[2025-09-22 15:19:34] SellerCasas1 -> PROPOSTA para Buyer7 sobre CasaCentro por R$ 1200000.0
+[2025-09-22 15:19:34] Buyer7 -> CFP para 2 vendedores do produto 'CasaCentro'
+[2025-09-22 15:19:34] Buyer3 -> CFP para 3 vendedores do produto 'LamborghiniHuracan'
+[2025-09-22 15:19:34] Buyer6 -> CFP para 3 vendedores do produto 'MercedesClasseS'
+[2025-09-22 15:19:34] SellerMercedes -> PROPOSTA para Buyer6 sobre MercedesClasseS por R$ 180000.0
+[2025-09-22 15:19:34] Buyer6 recebeu PROPOSTA de SellerMercedes : Produto ID m2, Preço R$ 180000.0
+[2025-09-22 15:19:34] Buyer7 recebeu PROPOSTA de SellerCasas1 : Produto ID h1, Preço R$ 1200000.0
+[2025-09-22 15:19:34] Buyer3 recebeu PROPOSTA de SellerLamborghini : Produto ID l2, Preço R$ 400000.0
+[2025-09-22 15:19:34] Buyer2 -> CFP para 3 vendedores do produto 'Ferrari488'
+[2025-09-22 15:19:34] SellerFerrari -> PROPOSTA para Buyer2 sobre Ferrari488 por R$ 450000.0
+[2025-09-22 15:19:34] Buyer2 recebeu PROPOSTA de SellerFerrari : Produto ID f1, Preço R$ 450000.0
+[2025-09-22 15:19:34] Buyer5 -> CFP para 3 vendedores do produto 'MercedesAMGGT'
+[2025-09-22 15:19:34] SellerMercedes -> PROPOSTA para Buyer5 sobre MercedesAMGGT por R$ 220000.0
+[2025-09-22 15:19:34] Buyer5 recebeu PROPOSTA de SellerMercedes : Produto ID m1, Preço R$ 220000.0
+[2025-09-22 15:19:34] Buyer4 -> CFP para 3 vendedores do produto 'LamborghiniUrus'
+[2025-09-22 15:19:34] SellerLamborghini -> PROPOSTA para Buyer4 sobre LamborghiniUrus por R$ 300000.0
+[2025-09-22 15:19:34] Buyer4 recebeu PROPOSTA de SellerLamborghini : Produto ID l3, Preço R$ 300000.0
+[2025-09-22 15:19:34] Buyer1 -> CFP para 3 vendedores do produto 'FerrariRoma'
+[2025-09-22 15:19:34] SellerFerrari -> PROPOSTA para Buyer1 sobre FerrariRoma por R$ 350000.0
+[2025-09-22 15:19:34] Buyer1 recebeu PROPOSTA de SellerFerrari : Produto ID f2, Preço R$ 350000.0
+[2025-09-22 15:19:34] Buyer9 -> CFP para 2 vendedores do produto 'Chacara'
+[2025-09-22 15:19:34] SellerCasas2 -> PROPOSTA para Buyer9 sobre Chacara por R$ 1100000.0
+[2025-09-22 15:19:34] Buyer9 recebeu PROPOSTA de SellerCasas2 : Produto ID h6, Preço R$ 1100000.0
+[2025-09-22 15:19:34] Buyer10 -> CFP para 1 vendedores do produto '*'
+[2025-09-22 15:19:34] SellerRolex -> PROPOSTA para Buyer10 sobre RolexDaytona por R$ 120000.0
+[2025-09-22 15:19:34] Buyer10 recebeu PROPOSTA de SellerRolex : Produto ID r1, Preço R$ 120000.0
+[2025-09-22 15:19:34] Buyer8 -> CFP para 2 vendedores do produto 'CasaPraia'
+[2025-09-22 15:19:34] SellerCasas1 -> PROPOSTA para Buyer8 sobre CasaPraia por R$ 750000.0
+[2025-09-22 15:19:34] Buyer8 recebeu PROPOSTA de SellerCasas1 : Produto ID h3, Preço R$ 750000.0
+[2025-09-22 15:19:36] Buyer6 melhor proposta: SellerMercedes por R$ 180000.0 (Produto ID: m2)
+[2025-09-22 15:19:36] Buyer3 melhor proposta: SellerLamborghini por R$ 400000.0 (Produto ID: l2)
+[2025-09-22 15:19:36] Buyer7 melhor proposta: SellerCasas1 por R$ 1200000.0 (Produto ID: h1)
+[2025-09-22 15:19:36] Buyer2 melhor proposta: SellerFerrari por R$ 450000.0 (Produto ID: f1)
+[2025-09-22 15:19:36] Buyer5 melhor proposta: SellerMercedes por R$ 220000.0 (Produto ID: m1)
+[2025-09-22 15:19:36] Buyer3 melhor proposta (R$ 400000.0) excede o orçamento (R$ 350000.0). Compra cancelada.
+[2025-09-22 15:19:36] Buyer6 melhor proposta (R$ 180000.0) excede o orçamento (R$ 150000.0). Compra cancelada.
+[2025-09-22 15:19:36] Buyer7 melhor proposta (R$ 1200000.0) excede o orçamento (R$ 1000000.0). Compra cancelada.
+[2025-09-22 15:19:36] SellerMercedes VENDEU (negociado) MercedesAMGGT para Buyer5
+[2025-09-22 15:19:36] SellerFerrari VENDEU (negociado) Ferrari488 para Buyer2
+[2025-09-22 15:19:36] Buyer3 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer2 -> NEGOCIAÇÃO para SellerFerrari oferecendo R$ 427500.0
+[2025-09-22 15:19:36] Buyer5 -> NEGOCIAÇÃO para SellerMercedes oferecendo R$ 209000.0
+[2025-09-22 15:19:36] Buyer1 melhor proposta: SellerFerrari por R$ 350000.0 (Produto ID: f2)
+[2025-09-22 15:19:36] Buyer4 melhor proposta: SellerLamborghini por R$ 300000.0 (Produto ID: l3)
+[2025-09-22 15:19:36] Buyer6 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer7 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer9 melhor proposta: SellerCasas2 por R$ 1100000.0 (Produto ID: h6)
+[2025-09-22 15:19:36] Buyer2 negociação falhou. Tentando comprar pelo preço original...
+[2025-09-22 15:19:36] Buyer5 negociação falhou. Tentando comprar pelo preço original...
+[2025-09-22 15:19:36] SellerFerrari VENDEU (fallback) Ferrari488 para Buyer2
+[2025-09-22 15:19:36] Buyer1 melhor proposta (R$ 350000.0) excede o orçamento (R$ 320000.0). Compra cancelada.
+[2025-09-22 15:19:36] Buyer4 melhor proposta (R$ 300000.0) excede o orçamento (R$ 280000.0). Compra cancelada.
+[2025-09-22 15:19:36] Buyer9 melhor proposta (R$ 1100000.0) excede o orçamento (R$ 1050000.0). Compra cancelada.
+[2025-09-22 15:19:36] Buyer10 melhor proposta: SellerRolex por R$ 120000.0 (Produto ID: r1)
+[2025-09-22 15:19:36] Buyer2 -> ACCEPT_PROPOSAL fallback para SellerFerrari por R$ 450000.0
+[2025-09-22 15:19:36] Buyer5 -> ACCEPT_PROPOSAL fallback para SellerMercedes por R$ 220000.0
+[2025-09-22 15:19:36] SellerMercedes VENDEU (fallback) MercedesAMGGT para Buyer5
+[2025-09-22 15:19:36] Buyer1 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer4 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer9 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer10 melhor proposta (R$ 120000.0) excede o orçamento (R$ 90000.0). Compra cancelada.
+[2025-09-22 15:19:36] Buyer8 melhor proposta: SellerCasas1 por R$ 750000.0 (Produto ID: h3)
+[2025-09-22 15:19:36] Buyer2 compra falhou no fallback. Motivo: no_item
+[2025-09-22 15:19:36] Buyer5 compra falhou no fallback. Motivo: no_item
+[2025-09-22 15:19:36] Buyer10 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer8 -> NEGOCIAÇÃO para SellerCasas1 oferecendo R$ 712500.0
+[2025-09-22 15:19:36] SellerCasas1 VENDEU (negociado) CasaPraia para Buyer8
+[2025-09-22 15:19:36] Buyer2 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer5 finalizando suas atividades.
+[2025-09-22 15:19:36] Buyer8 negociação falhou. Tentando comprar pelo preço original...
+[2025-09-22 15:19:36] Buyer8 -> ACCEPT_PROPOSAL fallback para SellerCasas1 por R$ 750000.0
+[2025-09-22 15:19:36] SellerCasas1 -> FALHA para Buyer8. Motivo: ITEM_VENDIDO
+[2025-09-22 15:19:36] Buyer8 COMPRA BEM-SUCEDIDA (fallback)! DEAL! Produto CasaPraia vendido por R$ 712500.0
+[2025-09-22 15:19:36] Buyer8 finalizando suas atividades.
+[2025-09-22 15:19:36] TODAS AS OPERAÇÕES DE COMPRA E VENDA FORAM FINALIZADAS!
+[2025-09-22 15:19:41] SellerMercedes encerrando.
+[2025-09-22 15:19:41] SellerFerrari encerrando.
+[2025-09-22 15:19:41] SellerLamborghini encerrando.
+[2025-09-22 15:19:46] SellerRolex encerrando.
+[2025-09-22 15:19:46] SellerCasas1 encerrando.
+[2025-09-22 15:19:46] SellerCasas2 encerrando.
+[2025-09-22 17:59:30] MainContainer: todos agentes iniciados.
+[2025-09-22 17:59:30] COMPRADOR1 iniciado. Quer: carro -> 'FerrariRoma' com budget R$ 320000.0
+[2025-09-22 17:59:30] COMPRADOR3 iniciado. Quer: carro -> 'LamborghiniHuracan' com budget R$ 350000.0
+[2025-09-22 17:59:30] COMPRADOR7 iniciado. Quer: casa -> 'CasaCentro' com budget R$ 1000000.0
+[2025-09-22 17:59:30] COMPRADOR10 iniciado. Quer: relogio -> '*' com budget R$ 90000.0
+[2025-09-22 17:59:30] COMPRADOR5 iniciado. Quer: carro -> 'MercedesAMGGT' com budget R$ 230000.0
+[2025-09-22 17:59:30] COMPRADOR2 iniciado. Quer: carro -> 'Ferrari488' com budget R$ 470000.0
+[2025-09-22 17:59:30] COMPRADOR4 iniciado. Quer: carro -> 'LamborghiniUrus' com budget R$ 280000.0
+[2025-09-22 17:59:30] COMPRADOR9 iniciado. Quer: casa -> 'Chacara' com budget R$ 1050000.0
+[2025-09-22 17:59:30] COMPRADOR8 iniciado. Quer: casa -> 'CasaPraia' com budget R$ 800000.0
+[2025-09-22 17:59:30] COMPRADOR6 iniciado. Quer: carro -> 'MercedesClasseS' com budget R$ 150000.0
+[2025-09-22 17:59:30] SellerCasas1 iniciado. Estoque: [CasaCentro (R$ 1200000.0, qtd: 1), CasaCampo (R$ 600000.0, qtd: 1), CasaPraia (R$ 750000.0, qtd: 1)]
+[2025-09-22 17:59:30] SellerFerrari iniciado. Estoque: [Ferrari488 (R$ 450000.0, qtd: 2), FerrariRoma (R$ 350000.0, qtd: 3)]
+[2025-09-22 17:59:30] SellerCasas2 iniciado. Estoque: [AptoCentro (R$ 800000.0, qtd: 2), CasaSuburbio (R$ 550000.0, qtd: 1), Chacara (R$ 1100000.0, qtd: 1)]
+[2025-09-22 17:59:30] SellerMercedes iniciado. Estoque: [MercedesAMGGT (R$ 220000.0, qtd: 5), MercedesClasseS (R$ 180000.0, qtd: 6), MercedesGLS (R$ 150000.0, qtd: 4)]
+[2025-09-22 17:59:30] SellerRolex iniciado. Estoque: [RolexDaytona (R$ 120000.0, qtd: 2), RolexSubmariner (R$ 95000.0, qtd: 3), RolexDatejust (R$ 80000.0, qtd: 4)]
+[2025-09-22 17:59:30] SellerLamborghini iniciado. Estoque: [LamborghiniAventador (R$ 480000.0, qtd: 2), LamborghiniHuracan (R$ 400000.0, qtd: 4), LamborghiniUrus (R$ 300000.0, qtd: 3)]
+[2025-09-22 17:59:30] SellerFerrari -> PROPOSTA para COMPRADOR1 sobre FerrariRoma por R$ 350000.0
+[2025-09-22 17:59:30] COMPRADOR1 -> CFP para 3 vendedores do produto 'FerrariRoma'
+[2025-09-22 17:59:30] COMPRADOR3 -> CFP para 3 vendedores do produto 'LamborghiniHuracan'
+[2025-09-22 17:59:30] SellerLamborghini -> PROPOSTA para COMPRADOR3 sobre LamborghiniHuracan por R$ 400000.0
+[2025-09-22 17:59:30] COMPRADOR1 recebeu PROPOSTA de SellerFerrari : Produto ID f2, Preço R$ 350000.0
+[2025-09-22 17:59:30] COMPRADOR3 recebeu PROPOSTA de SellerLamborghini : Produto ID l2, Preço R$ 400000.0
+[2025-09-22 17:59:30] COMPRADOR7 -> CFP para 2 vendedores do produto 'CasaCentro'
+[2025-09-22 17:59:30] SellerCasas1 -> PROPOSTA para COMPRADOR7 sobre CasaCentro por R$ 1200000.0
+[2025-09-22 17:59:30] COMPRADOR7 recebeu PROPOSTA de SellerCasas1 : Produto ID h1, Preço R$ 1200000.0
+[2025-09-22 17:59:30] COMPRADOR10 -> CFP para 1 vendedores do produto '*'
+[2025-09-22 17:59:30] SellerRolex -> PROPOSTA para COMPRADOR10 sobre RolexDaytona por R$ 120000.0
+[2025-09-22 17:59:30] COMPRADOR10 recebeu PROPOSTA de SellerRolex : Produto ID r1, Preço R$ 120000.0
+[2025-09-22 17:59:30] COMPRADOR5 -> CFP para 3 vendedores do produto 'MercedesAMGGT'
+[2025-09-22 17:59:30] SellerMercedes -> PROPOSTA para COMPRADOR5 sobre MercedesAMGGT por R$ 220000.0
+[2025-09-22 17:59:30] COMPRADOR5 recebeu PROPOSTA de SellerMercedes : Produto ID m1, Preço R$ 220000.0
+[2025-09-22 17:59:30] SellerFerrari -> PROPOSTA para COMPRADOR2 sobre Ferrari488 por R$ 450000.0
+[2025-09-22 17:59:30] COMPRADOR2 -> CFP para 3 vendedores do produto 'Ferrari488'
+[2025-09-22 17:59:30] COMPRADOR2 recebeu PROPOSTA de SellerFerrari : Produto ID f1, Preço R$ 450000.0
+[2025-09-22 17:59:30] COMPRADOR4 -> CFP para 3 vendedores do produto 'LamborghiniUrus'
+[2025-09-22 17:59:30] SellerLamborghini -> PROPOSTA para COMPRADOR4 sobre LamborghiniUrus por R$ 300000.0
+[2025-09-22 17:59:30] COMPRADOR4 recebeu PROPOSTA de SellerLamborghini : Produto ID l3, Preço R$ 300000.0
+[2025-09-22 17:59:30] COMPRADOR9 -> CFP para 2 vendedores do produto 'Chacara'
+[2025-09-22 17:59:30] COMPRADOR9 recebeu PROPOSTA de SellerCasas2 : Produto ID h6, Preço R$ 1100000.0
+[2025-09-22 17:59:30] SellerCasas2 -> PROPOSTA para COMPRADOR9 sobre Chacara por R$ 1100000.0
+[2025-09-22 17:59:30] COMPRADOR8 -> CFP para 2 vendedores do produto 'CasaPraia'
+[2025-09-22 17:59:30] SellerCasas1 -> PROPOSTA para COMPRADOR8 sobre CasaPraia por R$ 750000.0
+[2025-09-22 17:59:30] COMPRADOR8 recebeu PROPOSTA de SellerCasas1 : Produto ID h3, Preço R$ 750000.0
+[2025-09-22 17:59:30] COMPRADOR6 -> CFP para 3 vendedores do produto 'MercedesClasseS'
+[2025-09-22 17:59:30] SellerMercedes -> PROPOSTA para COMPRADOR6 sobre MercedesClasseS por R$ 180000.0
+[2025-09-22 17:59:30] COMPRADOR6 recebeu PROPOSTA de SellerMercedes : Produto ID m2, Preço R$ 180000.0
+[2025-09-22 17:59:32] COMPRADOR1 melhor proposta: SellerFerrari por R$ 350000.0 (Produto ID: f2)
+[2025-09-22 17:59:32] COMPRADOR3 melhor proposta: SellerLamborghini por R$ 400000.0 (Produto ID: l2)
+[2025-09-22 17:59:32] COMPRADOR3 melhor proposta (R$ 400000.0) excede o orçamento (R$ 350000.0). Compra cancelada.
+[2025-09-22 17:59:32] COMPRADOR1 melhor proposta (R$ 350000.0) excede o orçamento (R$ 320000.0). Compra cancelada.
+[2025-09-22 17:59:32] COMPRADOR3 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR1 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR5 melhor proposta: SellerMercedes por R$ 220000.0 (Produto ID: m1)
+[2025-09-22 17:59:32] COMPRADOR10 melhor proposta: SellerRolex por R$ 120000.0 (Produto ID: r1)
+[2025-09-22 17:59:32] COMPRADOR7 melhor proposta: SellerCasas1 por R$ 1200000.0 (Produto ID: h1)
+[2025-09-22 17:59:32] COMPRADOR10 melhor proposta (R$ 120000.0) excede o orçamento (R$ 90000.0). Compra cancelada.
+[2025-09-22 17:59:32] COMPRADOR7 melhor proposta (R$ 1200000.0) excede o orçamento (R$ 1000000.0). Compra cancelada.
+[2025-09-22 17:59:32] SellerMercedes VENDEU (negociado) MercedesAMGGT para COMPRADOR5
+[2025-09-22 17:59:32] COMPRADOR10 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR5 -> NEGOCIAÇÃO para SellerMercedes oferecendo R$ 209000.0
+[2025-09-22 17:59:32] COMPRADOR7 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR9 melhor proposta: SellerCasas2 por R$ 1100000.0 (Produto ID: h6)
+[2025-09-22 17:59:32] COMPRADOR4 melhor proposta: SellerLamborghini por R$ 300000.0 (Produto ID: l3)
+[2025-09-22 17:59:32] COMPRADOR2 melhor proposta: SellerFerrari por R$ 450000.0 (Produto ID: f1)
+[2025-09-22 17:59:32] COMPRADOR5 negociação falhou. Tentando comprar pelo preço original...
+[2025-09-22 17:59:32] COMPRADOR9 melhor proposta (R$ 1100000.0) excede o orçamento (R$ 1050000.0). Compra cancelada.
+[2025-09-22 17:59:32] COMPRADOR4 melhor proposta (R$ 300000.0) excede o orçamento (R$ 280000.0). Compra cancelada.
+[2025-09-22 17:59:32] COMPRADOR2 -> NEGOCIAÇÃO para SellerFerrari oferecendo R$ 427500.0
+[2025-09-22 17:59:32] SellerFerrari VENDEU (negociado) Ferrari488 para COMPRADOR2
+[2025-09-22 17:59:32] COMPRADOR5 -> ACCEPT_PROPOSAL fallback para SellerMercedes por R$ 220000.0
+[2025-09-22 17:59:32] SellerMercedes VENDEU (fallback) MercedesAMGGT para COMPRADOR5
+[2025-09-22 17:59:32] COMPRADOR9 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR4 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR2 negociação falhou. Tentando comprar pelo preço original...
+[2025-09-22 17:59:32] COMPRADOR8 melhor proposta: SellerCasas1 por R$ 750000.0 (Produto ID: h3)
+[2025-09-22 17:59:32] COMPRADOR5 compra falhou no fallback. Motivo: no_item
+[2025-09-22 17:59:32] COMPRADOR2 -> ACCEPT_PROPOSAL fallback para SellerFerrari por R$ 450000.0
+[2025-09-22 17:59:32] COMPRADOR6 melhor proposta: SellerMercedes por R$ 180000.0 (Produto ID: m2)
+[2025-09-22 17:59:32] SellerFerrari VENDEU (fallback) Ferrari488 para COMPRADOR2
+[2025-09-22 17:59:32] COMPRADOR8 -> NEGOCIAÇÃO para SellerCasas1 oferecendo R$ 712500.0
+[2025-09-22 17:59:32] SellerCasas1 VENDEU (negociado) CasaPraia para COMPRADOR8
+[2025-09-22 17:59:32] COMPRADOR5 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR2 compra falhou no fallback. Motivo: no_item
+[2025-09-22 17:59:32] COMPRADOR6 melhor proposta (R$ 180000.0) excede o orçamento (R$ 150000.0). Compra cancelada.
+[2025-09-22 17:59:32] COMPRADOR8 negociação falhou. Tentando comprar pelo preço original...
+[2025-09-22 17:59:32] COMPRADOR2 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR6 finalizando suas atividades.
+[2025-09-22 17:59:32] COMPRADOR8 -> ACCEPT_PROPOSAL fallback para SellerCasas1 por R$ 750000.0
+[2025-09-22 17:59:32] SellerCasas1 -> FALHA para COMPRADOR8. Motivo: ITEM_VENDIDO
+[2025-09-22 17:59:32] COMPRADOR8 COMPRA BEM-SUCEDIDA (fallback)! DEAL! Produto CasaPraia vendido por R$ 712500.0
+[2025-09-22 17:59:32] COMPRADOR8 finalizando suas atividades.
+[2025-09-22 17:59:32] TODAS AS OPERAÇÕES DE COMPRA E VENDA FORAM FINALIZADAS!
+[2025-09-22 17:59:35] SellerCasas1 encerrando.
+[2025-09-22 17:59:35] SellerFerrari encerrando.
+[2025-09-22 17:59:35] SellerRolex encerrando.
+[2025-09-22 17:59:35] SellerCasas2 encerrando.
+[2025-09-22 17:59:36] SellerLamborghini encerrando.
+[2025-09-22 17:59:41] SellerMercedes encerrando.
